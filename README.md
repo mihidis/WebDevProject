@@ -1,5 +1,5 @@
 # WebDevProject
-Personal project for web development practice. I will try to compine front-end, back-end and a small database.
+Personal project for web development practice. I will try to compine front-end, back-end and a small database. Maven project using java, Spring boot, hibernate, html, css.
 
 Update log
 
